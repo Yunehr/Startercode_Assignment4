@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: movie-booking-system
+Version: 1.0.0
+Summary: Movie Ticket Booking System
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+
+# Movie Ticket Booking System
+Starter repository for CSCN73010 Assignment 3.
